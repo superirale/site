@@ -11,7 +11,7 @@
           <h1>Usman Irale</h1>
         </div>
         <div class="profile-description">
-          <p>Software Engineer.<br> Working remotly at Telios Support Services</p>
+          <p>Software Engineer.<br> </p>
         </div>
 
         <div class="profile-social-accounts">
